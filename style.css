@@ -1,0 +1,25 @@
+body {
+    background: #645f5f;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#gameArea {
+    margin-top: 6%;
+    display: inline-block;
+}
+
+canvas {
+   
+    border: 1px solid black;
+}
+
+
+h1 {
+    font-size: 36px; 
+    color: rgb(12, 12, 19); 
+    margin: 0px 0px 25px 0px ; 
+  
+}
